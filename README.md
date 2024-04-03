@@ -1,6 +1,6 @@
 # to_do
 
-A new Flutter project.
+A minimalistic ToDo app with complete functionality.
 
 ## Getting Started
 
