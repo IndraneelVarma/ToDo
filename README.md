@@ -1,6 +1,6 @@
 # to_do
 
-A minimalistic ToDo app with complete functionality.
+A minimalistic ToDo app with complete functionality. (Flutter x Hive)
 
 ## Web app link below
 
